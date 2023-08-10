@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjdgh3586@gmail.com)](mailto:tjdgh3586@gmail.com)
