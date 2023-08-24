@@ -9,8 +9,6 @@
 # 📜Portfolio Website <a href="https://jee-on.github.io/react-portfolio">#Link
 
 <p align="center">
-  <a href="https://jee-on.github.io/react-portfolio">
-<img  height="400" width="550" src="https://github.com/Jee-on/Jee-on/assets/131442485/b25ec93c-bd7e-4793-af36-ba4ce71bac7d">
-  </a>
+ [![이미지 설명](https://github.com/Jee-on/Jee-on/blob/main/assets/131442485/b25ec93c-bd7e-4793-af36-ba4ce71bac7d.png?raw=true)](https://jee-on.github.io/react-portfolio)
   
 </p>
