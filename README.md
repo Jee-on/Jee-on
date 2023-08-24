@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div></div>
-![pic1](https://github.com/Jee-on/Jee-on/assets/131442485/2285c69f-a6eb-4be8-8aa0-1c72c1ce371f)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jee-on&show_icons=true&theme=dracula)
 
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jee-on)](https://github.com/Jee-on) 
