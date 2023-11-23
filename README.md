@@ -1,5 +1,5 @@
 # 👋Welcome. Jee-on`s Github <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jee-on">
-<div align="center" style="background-color: "gray">
+<div align="center" style="background-color: gray">
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Jee-on&theme=dracula&hide_border=true&background=FFFFFF00"></br>
 <img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=Jee-on&show_icons=true&theme=dracula&hide_rank=true&hide_border=true&bg_color=00000000">
 <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jee-on&theme=dracula&layout=compact&hide_border=true&bg_color=00000000">
