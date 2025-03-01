@@ -1,4 +1,7 @@
-# 👋Welcome. Jee-on`s Github <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jee-on">
+# 👋Welcome. Jee-on`s Github 
+<!--
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jee-on">
+-->
 <div align="center">
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Jee-on&theme=dracula&hide_border=true&background=0e1218"></br>
 <img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=Jee-on&show_icons=true&theme=dracula&hide_rank=true&hide_border=true&bg_color=0e1218">
